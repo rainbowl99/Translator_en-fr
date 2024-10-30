@@ -9,8 +9,8 @@ torchaudio==2.5.0
 datasets==3.0.2
 tokenizers==0.20.1
 torchmetrics==1.5.1
-tensorboard==2.18.0
-altair==5.4.1
+tensorboard==2.18.0  
+altair==5.4.1  
 
 # Operation
 
